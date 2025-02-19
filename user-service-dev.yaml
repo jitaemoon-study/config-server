@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+user:
+  name: "admin"
+  id: "admin"
