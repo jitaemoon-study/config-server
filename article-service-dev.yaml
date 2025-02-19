@@ -6,5 +6,5 @@ spring:
     name: article-service
 
 article:
-  title: "Test title 222"
-  content: "Test content22"
+  title: "Test title 33333"
+  content: "Test 33333"
